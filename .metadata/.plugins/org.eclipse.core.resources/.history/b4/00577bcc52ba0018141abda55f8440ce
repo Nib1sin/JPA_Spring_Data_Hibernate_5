@@ -1,0 +1,5 @@
+package com.nibi.springdata.jpqlandnativesql.entities;
+
+public class Student {
+
+}
