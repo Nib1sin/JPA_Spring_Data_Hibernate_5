@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="JpqlandnativesqlApplicationTests" project="jpqlandnativesql" tests="5" started="5" failures="0" errors="0" ignored="0">
-  <testsuite name="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.209">
-    <testcase name="testFindAllStudentsByScores" classname="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.137"/>
-    <testcase name="testFindAllStudents" classname="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.006"/>
-    <testcase name="testFindAllStudentsByFirstName" classname="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.013"/>
-    <testcase name="testStudentCreate" classname="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.053"/>
-    <testcase name="testFindAllStudentsPartialData" classname="com.nibi.springdata.jpqlandnativesql.JpqlandnativesqlApplicationTests" time="0.0"/>
-  </testsuite>
-</testrun>
