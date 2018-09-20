@@ -11,3 +11,5 @@
 ### Paging and Sorting with JPQL
 ### Native SQL query
 ### Native SQL query pass named parameter
+
+## Es necesario crear una DB previamente, por elo adjunto una query para crear la misma. 
