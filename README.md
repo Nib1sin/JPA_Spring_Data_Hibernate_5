@@ -8,3 +8,6 @@
 ### Using Named Query Parameters
 ### FindBy
 ### Non Select Operations
+### Paging and Sorting with JPQL
+### Native SQL query
+### Native SQL query pass named parameter
